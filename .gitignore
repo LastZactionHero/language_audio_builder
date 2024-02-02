@@ -4,3 +4,21 @@
 # Ignore any mp3 or aiff files
 *.mp3
 *.aiff
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore node modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore the build folder
+/dist
+
+# Ignore .env files
+.env
+
+# Ignore the npm debug logs
+npm-debug.log*
