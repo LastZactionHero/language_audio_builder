@@ -13,7 +13,7 @@ with open('./verbs.csv', mode ='r')as file:
     words.append(lines)
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "key"
 
 for idx, word in enumerate(words):
   print(f"{idx}/{len(words)}")
