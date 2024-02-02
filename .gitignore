@@ -1,0 +1,6 @@
+# Ignore the 'segments' directory
+/segments/
+
+# Ignore any mp3 or aiff files
+*.mp3
+*.aiff
